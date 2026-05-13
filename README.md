@@ -178,6 +178,14 @@ NetScan Pro automatically generates professional HTML reports including:
 
 ---
 
+## 📊 HTML Report Preview
+
+<img width="1000" alt="NetScan Pro Report" src="screenshots/report.png">
+
+---
+
+---
+
 # ⚠️ Disclaimer
 
 This tool is intended only for:
